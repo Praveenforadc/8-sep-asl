@@ -1,1 +1,8 @@
 <html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
+<h1> Welcome to Aditya Degree College</h1>
+</body>
+</html>
